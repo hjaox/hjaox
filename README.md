@@ -5,4 +5,4 @@
 - [My own Personal Portfolio](https://hectorobanana.netlify.app/)
 
 
-:chart_with_upwards_trend: Im currently learning Tailwind CDD and C# to add to my skills.
+:chart_with_upwards_trend: Im currently learning C# to add to my skills.
